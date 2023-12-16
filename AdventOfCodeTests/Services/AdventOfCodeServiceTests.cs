@@ -1,4 +1,5 @@
-﻿using AdventOfCode.Services;
+﻿using System.Collections.Generic;
+using AdventOfCode.Services;
 using FluentAssertions;
 
 namespace AdventOfCodeTests.Services;
